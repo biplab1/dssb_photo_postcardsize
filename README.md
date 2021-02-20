@@ -1,2 +1,2 @@
-# dssb_photo_postcardsize
-DSSB Photo resize to postcard size
+# photo_resize
+Resizing pics using PIL to a desired image size.
